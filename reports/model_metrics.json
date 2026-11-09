@@ -1,0 +1,25 @@
+{
+    "train_size": 300,
+    "validation_size": 100,
+    "test_size": 100,
+    "decision_threshold": 0.16433812254069155,
+    "validation_f2": 0.7017543859341335,
+    "accuracy": 0.32,
+    "precision": 0.32,
+    "recall": 1.0,
+    "f1_score": 0.48484848484848486,
+    "f2_score": 0.7017543859649122,
+    "roc_auc": 0.6250000000000001,
+    "average_precision": 0.44970296398382165,
+    "confusion_matrix": [
+        [
+            0,
+            68
+        ],
+        [
+            0,
+            32
+        ]
+    ],
+    "classification_report": "              precision    recall  f1-score   support\n\n           0       0.00      0.00      0.00        68\n           1       0.32      1.00      0.48        32\n\n    accuracy                           0.32       100\n   macro avg       0.16      0.50      0.24       100\nweighted avg       0.10      0.32      0.16       100\n"
+}
