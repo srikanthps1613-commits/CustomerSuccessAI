@@ -16,6 +16,27 @@ It combines a Random Forest churn-classification workflow with rule-based custom
 
 ---
 
+
+## Dashboard screenshots
+
+The following screenshots are captured from the deployed Streamlit application. They show the actual portfolio dashboard and customer-level views.
+
+### Portfolio overview and model evaluation
+
+![CustomerSuccess AI portfolio overview](docs/images/customer-success-dashboard.jpg)
+
+### Customer retention action center
+
+![Customer retention action center](docs/images/retention-action-center.jpg)
+
+### Customer risk indicators and recommended CSM actions
+
+![Customer risk indicators and CSM actions](docs/images/customer-risk-explanations.jpg)
+
+### Customer health score factors
+
+![Customer health score factors](docs/images/customer-health-factors.jpg)
+
 ## What it does
 
 ### 1. Customer health scoring
